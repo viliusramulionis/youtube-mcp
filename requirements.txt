@@ -1,0 +1,4 @@
+fastmcp>=2.12
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+youtube-transcript-api>=1.2
